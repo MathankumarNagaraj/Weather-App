@@ -1,0 +1,25 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgb(195, 34, 136) 0%, rgba(0, 255, 255, 0.84) 100%);
+background-attachment: fixed;
+}
+
+
+.container{
+background: rgb(34, 195, 155);
+background: linear-gradient(0deg, rgba(34, 176, 195, 0.966) 0%, rgb(249, 249, 249) 100%);
+background-attachment: fixed;
+
+
+}
+
+.button:hover{
+    transform: scale(1.09);
+    cursor: pointer;
+}
