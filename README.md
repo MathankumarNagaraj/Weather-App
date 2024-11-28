@@ -1,3 +1,33 @@
+🌦 Responsive Weather App - Completed! 🌟
+
+Excited to share my latest project – a Responsive Weather App built with React.js! 🚀
+
+This app provides real-time weather updates with a user-friendly interface and is fully responsive across all devices. Working on this project enhanced my skills in:
+✅ React components and state management
+✅ API integration for fetching live data
+✅ Responsive design for seamless usability
+
+GitHub:https://github.com/MathankumarNagaraj/Weather-App
+
+
+Weather App:https://weather-app-five-eta-60.vercel.app/
+
+LinkedIn:https://www.linkedin.com/posts/mathankumar-n-4483442b1_reactjs-frontenddevelopment-weatherapp-activity-7267936575643103234--mz5?utm_source=share&utm_medium=member_android
+
+
+
+Feel free to check it out and share your feedback! Your thoughts are always welcome. 💬
+
+#ReactJS #FrontendDevelopment #WeatherApp #ResponsiveDesign #OpenToFeedback
+#EMC
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
